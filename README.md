@@ -22,13 +22,28 @@ This project implements a complete pipeline for the **Zalo AI Challenge 2020: Tr
     cd traffic-sign-detection-zalo-2020
     ```
 
-2.  **Install dependencies**:
+2.  **Create a Virtual Environment** (Recommended):
+    *   This prevents conflicts with your system's Python environment.
+
+    *   **For Windows:**
+        ```bash
+        python -m venv venv
+        venv\Scripts\activate
+        ```
+
+    *   **For macOS / Linux:**
+        ```bash
+        python3 -m venv venv
+        source venv/bin/activate
+        ```
+
+3.  **Install dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
     *Key libraries: `ultralytics`, `opencv-python`, `albumentations`, `matplotlib`, `kagglehub`.*
 
-3.  **Download Weights**:
+4.  **Download Weights**:
     *   Download trained weights from [Google Drive](https://drive.google.com/drive/folders/1evX39Wb18gJlqRDeGu20eSk3arssSNC5?usp=sharing).
     *   Place them in: `zalo_traffic_signs_v2_saved/weights/`.
     *   *Recommendation: Use `best.pt` for evaluation and prediction.*
