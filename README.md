@@ -140,27 +140,27 @@ Here are real-time detection results on Vietnamese streets:
     <tbody>
       <!-- Video 1 -->
       <tr>
-        <td align="center"><video src="videos/7491066896592.mp4" width="100%" controls autoplay loop muted></video></td>
+        <td align="center"><img src="videos/result/7491066896592_origin.gif" width="100%" /></td>
         <td align="center"><img src="videos/result/7491066896592_result.gif" width="100%" /></td>
       </tr>
       <!-- Video 2 -->
       <tr>
-        <td align="center"><video src="videos/7491078013748.mp4" width="100%" controls autoplay loop muted></video></td>
+        <td align="center"><img src="videos/result/7491078013748_origin.gif" width="100%" /></td>
         <td align="center"><img src="videos/result/7491078013748_result.gif" width="100%" /></td>
       </tr>
       <!-- Video 3 -->
       <tr>
-        <td align="center"><video src="videos/7491078439517.mp4" width="100%" controls autoplay loop muted></video></td>
+        <td align="center"><img src="videos/result/7491078439517_origin.gif" width="100%" /></td>
         <td align="center"><img src="videos/result/7491078439517_result.gif" width="100%" /></td>
       </tr>
       <!-- Video 4 -->
       <tr>
-        <td align="center"><video src="videos/7491106513667.mp4" width="100%" controls autoplay loop muted></video></td>
+        <td align="center"><img src="videos/result/7491106513667_origin.gif" width="100%" /></td>
         <td align="center"><img src="videos/result/7491106513667_result.gif" width="100%" /></td>
       </tr>
       <!-- Video 5 -->
       <tr>
-        <td align="center"><video src="videos/7491106769782.mp4" width="100%" controls autoplay loop muted></video></td>
+        <td align="center"><img src="videos/result/7491106769782_origin.gif" width="100%" /></td>
         <td align="center"><img src="videos/result/7491106769782_result.gif" width="100%" /></td>
       </tr>
     </tbody>
